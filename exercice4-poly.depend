@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1776373815 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\main.cpp
+	<iostream>
+	"Lettre.h"
+	"Colis.h"
+	"Sac_postal.h"
+
+1776372058 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\src\colis.cpp
+	"Colis.h"
+	<iostream>
+
+1776372033 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\include\colis.h
+	"Objet_postal.h"
+	<string>
+
+1776372021 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\src\lettre.cpp
+	"Lettre.h"
+	<iostream>
+
+1776371958 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\include\lettre.h
+	"Objet_postal.h"
+	<string>
+
+1776371930 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\src\objet_postal.cpp
+	"Objet_postal.h"
+	<iostream>
+
+1776371908 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\include\objet_postal.h
+	<string>
+
+1776374055 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\include\sac_postal.h
+	"Vecteur.h"
+	"Objet_postal.h"
+
+1776373968 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\include\vecteur.h
+	<iostream>
+
+1776373724 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\src\sac_postal.cpp
+	"Sac_postal.h"
+	<iostream>
+
+1776373601 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\exercice4-poly\src\vecteur.cpp
+	"Vecteur.h"
+	<iostream>
+
